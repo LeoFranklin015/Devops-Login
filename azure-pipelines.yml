@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: local
+pool: trial
 
 steps:
 - task: Maven@4
